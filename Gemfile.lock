@@ -129,7 +129,7 @@ GEM
       rails (>= 5.0.0.1)
       rouge
       sprockets (< 4)
-    govuk_test (1.0.3)
+    govuk_test (2.0.0)
       brakeman (~> 4.6)
       capybara
       puma
@@ -198,7 +198,7 @@ GEM
     multi_json (1.15.0)
     multipart-post (2.1.1)
     netrc (0.11.0)
-    nio4r (2.5.2)
+    nio4r (2.5.4)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     parallel (1.19.2)
@@ -216,7 +216,7 @@ GEM
     pry-stack_explorer (0.5.1)
       binding_of_caller (~> 0.7)
       pry (~> 0.13)
-    public_suffix (4.0.5)
+    public_suffix (4.0.6)
     puma (4.3.5)
       nio4r (~> 2.0)
     rack (2.2.3)
@@ -255,7 +255,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     redcarpet (3.5.0)
-    regexp_parser (1.7.1)
+    regexp_parser (1.8.0)
     request_store (1.5.0)
       rack (>= 1.4)
     rest-client (2.1.0)
